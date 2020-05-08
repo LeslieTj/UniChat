@@ -1,4 +1,4 @@
-# UNI CHAT - Team Project of Group Seine
+# UNI CHAT - Team Project of Software Workshop, CS, University of Birmingham
 
 ## Description of Project
 
